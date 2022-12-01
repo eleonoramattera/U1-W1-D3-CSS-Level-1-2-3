@@ -1,0 +1,66 @@
+body {
+  font-family: "EB Garamond", serif;
+  font-weight: 400;
+}
+
+#container-img {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#logo {
+  width: 15%;
+}
+
+#sfondo {
+  background-color: #ffdcf14d;
+  border-top: 2px solid #ffe00040;
+  display: flex;
+  justify-content: center;
+}
+
+#contenitore-focaccia {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#focaccia {
+  width: 100%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#didascalia {
+  color: gray;
+  text-align: center;
+}
+
+#featured {
+  border-left: 1px solid orange;
+  padding: 10px;
+  color: brown;
+}
+
+main {
+  width: 50%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.titoli {
+  font-weight: 600;
+}
+
+h3 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightblue;
+}
